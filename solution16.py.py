@@ -10,7 +10,7 @@ def even(l):
         for j in i:
             if(j%2==0):
                 print("total string of even {} character:".format(j))
-                count+=1
+                //count+=1
     return(even)
 creatlist()
 ans=even(l)
